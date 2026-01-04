@@ -90,24 +90,26 @@ The main objective of this project is to:
 - Clean and professional UI for better user experience
 
 ---
-✅ How to Run the Project Locally
-🔹 Step 1: Clone the Repository
+###✅ How to Run the Project Locally
+###🔹 Step 1: Clone the Repository
 git clone https://github.com/Manubhat99/titanic-survival-prediction.git
 cd titanic-survival-prediction
-
-🔹 Step 2: Install Required Libraries
+---
+###🔹 Step 2: Install Required Libraries
 pip install pandas numpy scikit-learn streamlit joblib
-
-🔹 Step 3: Run the Streamlit Application
+---
+###🔹 Step 3: Run the Streamlit Application
 python -m streamlit run app.py
 
-🔹 Step 4: Open the Application in Browser
+---
+###🔹 Step 4: Open the Application in Browser
 
 After running the command, open your browser and go to:
 
 http://localhost:8501
 
-📂 Project Structure
+---
+###📂 Project Structure
 titanic-survival-prediction/
 │
 ├── app.py                  # Streamlit application
@@ -117,8 +119,8 @@ titanic-survival-prediction/
 ├── train.csv               # Training dataset
 ├── test.csv                # Test dataset
 ├── README.md               # Project documentation
-
-📊 Results
+---
+###📊 Results
 
 The model successfully predicts survival outcomes based on user input
 
@@ -126,7 +128,8 @@ Demonstrates the importance of features such as gender, class, and age
 
 Provides an intuitive interface for non-technical users
 
-🧠 Key Learnings
+---
+###🧠 Key Learnings
 
 End-to-end machine learning workflow
 
@@ -136,13 +139,16 @@ Practical experience with Streamlit deployment
 
 Handling real-world data challenges
 
-👤 Author
+---
+###👤 Author
 
 Mahabaleshwar Bhat
 Aspiring Data Scientist
 GitHub: https://github.com/Manubhat99
 
-🚀 Future Enhancements
+---
+
+###🚀 Future Enhancements
 
 Add survival probability score
 
