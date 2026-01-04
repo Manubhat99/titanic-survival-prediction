@@ -92,7 +92,7 @@ The main objective of this project is to:
 ---
 ✅ How to Run the Project Locally
 🔹 Step 1: Clone the Repository
-git clone https://github.com/yourusername/titanic-survival-prediction.git
+git clone https://github.com/Manubhat99/titanic-survival-prediction.git
 cd titanic-survival-prediction
 
 🔹 Step 2: Install Required Libraries
