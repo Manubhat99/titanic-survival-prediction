@@ -111,18 +111,6 @@ After running the command, open your browser and go to:
 http://localhost:8501
 
 ---
-**📂 Project Structure**
-titanic-survival-prediction/
-│
-├── app.py                  # Streamlit application
-├── titanic.ipynb           # Data analysis & model training
-├── titanic_model.pkl       # Trained ML model
-├── feature_columns.pkl     # Feature list used during training
-├── train.csv               # Training dataset
-├── test.csv                # Test dataset
-├── README.md               # Project documentation
-
----
 **📊 Results**
 
 The model successfully predicts survival outcomes based on user input
